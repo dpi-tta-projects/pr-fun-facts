@@ -31,10 +31,10 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2023-9.1
 | Name | Fun Fact |
-| --- | --- |
+| Carman Chiu | My dream is to become a great dancer :D |
 | Calvin Armstrong | I have a custom six-string electric cello that I designed and play heavy metal on. |
 | Jorge Pioquinto | Every Thanksgiving, I make the turkey |
-|Alejandro Lopez| I have 2 dogs and a turtle|
+| Alejandro Lopez| I have 2 dogs and a turtle|
 |Jared Bears|Tomatoes, potatoes, and peppers are all part of the nightshade family and are toxic when unripe|
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
 | Carlos Castaneda | I've traveled to 4 different continents. |
