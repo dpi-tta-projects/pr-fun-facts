@@ -48,7 +48,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Brenda Reyes | I broke 4 of toes all at once |
 | Aldo Portillo | I like water |
 | Thierry | I played Ragnarok Online when i was in elementary school |
-| Dmitrii Sumenko | Dmitrii Sumenko | When Chuck Norris does push-ups, he doesn't push himself up, he pushes the Earth down.
+| Dmitrii Sumenko | When Chuck Norris does push-ups, he doesn't push himself up, he pushes the Earth down. |
 | Sara Schoonover | I have an 8 year old Dachshund mix named Comet. |
 | Thierry Chau | I played Ragnarok Online when I was in elementary school |
 | Jun So | The biggest bass I have caught is 4.97 lbs |
@@ -59,4 +59,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Akin | I like to play basketball |
 | Alina Sapronova | I hate frogs |
 | Ethan Huang | I have watched almost 100 Korean dramas |
-|Brian Waddell| The Triangle is the strongest shape period | 
+| Brian Waddell| The Triangle is the strongest shape period | 
