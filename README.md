@@ -32,6 +32,9 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-9.1
 | Name | Fun Fact |
 
+| --- | --- |
+
+| Carman Chiu | My dream is to become a great dancer :D |
 | Calvin Armstrong | I have a custom six-string electric cello that I designed and play heavy metal on. |
 | Jorge Pioquinto | Every Thanksgiving, I make the turkey |
 |Alejandro Lopez| I have 2 dogs and a turtle|
