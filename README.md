@@ -31,6 +31,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2023-9.1
 | Name | Fun Fact |
+| Jacob Hoffmann | Elephants are the only animal can't jump. |
 | Andre Garner | I play Fortnite |
 | Carman Chiu | My dream is to become a great dancer :D |
 | Calvin Armstrong | I have a custom six-string electric cello that I designed and play heavy metal on. |
