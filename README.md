@@ -14,6 +14,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | John Leavell | I make the best lemon pancakes. |
 | Dustin Doyle | I painted murals in Baghdad at the embassy. |
 | Ian Heraty | My first iOS app was about chickens crossing the road. |
+| Jazmine Tran | Cats can jump up to 6 times their height. |
+| Mena Castillo | I like turtles |
 
 ## 2023-1.1 Hash Rockets
 
@@ -32,15 +34,16 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-9.1
 | Name | Fun Fact |
 | --- | --- |
-| Andre Garner         | I play Fortnite |
-| Carman Chiu          | My dream is to become a great dancer :D |
-| Calvin Armstrong     | I have a custom six-string electric cello that I designed and play heavy metal on. |
-| Jorge Pioquinto      | Every Thanksgiving, I make the turkey |
-| Alejandro Lopez      | I have 2 dogs and a turtle|
-| Jared Bears          |Tomatoes, potatoes, and peppers are all part of the nightshade family and are toxic when unripe|
-| Fidel Leal           | I am about the only Cuban that cannot dance, swim or play baseball :) |
-| Carlos Castaneda     | I've traveled to 4 different continents. |
-| Jacob Hoffmann       | Elephants are the only animal can't jump. |
+| Jacob Hoffmann | Elephants are the only animal can't jump. |
+| Andre Garner | I play Fortnite |
+| Carman Chiu | My dream is to become a great dancer :D |
+| Calvin Armstrong | I have a custom six-string electric cello that I designed and play heavy metal on. |
+| Jorge Pioquinto | Every Thanksgiving, I make the turkey |
+| Alejandro Lopez| I have 2 dogs and a turtle|
+| Jason Ho | Sharks have existed longer than trees. |
+| Jared Bears|Tomatoes, potatoes, and peppers are all part of the nightshade family and are toxic when unripe|
+| Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
+| Carlos Castaneda | I've traveled to 4 different continents. |
 | Alexandra Mompremier | I love to sew! |
 | Brenda Reyes         | I broke 4 of toes all at once |
 | Aldo Portillo        | I like water |
@@ -53,3 +56,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Kat Jarboe           | Some cats have 6 beans per paw instead of 5 |
 | Alina Sapronova      | I hate frogs |
 | RJ                   | I love cheesecake! I love cheesecake! I love cheesecake! I love cheesecake! I love cheesecake!|
+| Samuel Lubliner      | I ride my bike to work |
+| Akin                 | I like to play basketball |
+| Alina Sapronova      | I hate frogs |
+| Ethan Huang          | I have watched almost 100 Korean dramas |
