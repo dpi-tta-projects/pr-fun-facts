@@ -32,4 +32,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-9.1
 | Name | Fun Fact |
 | --- | --- |
-|Brian| Triangle is the strongest shape. The first shape was a circle. 3-D Too 
+|Brian| Triangle is the strongest shape Overall no other shape is stronger. 
