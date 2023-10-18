@@ -32,5 +32,15 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-9.1
 | Name | Fun Fact |
 | --- | --- |
-| Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
+| Calvin Armstrong | I have a custom six-string electric cello that I designed and play heavy metal on. |
+| Jorge Pioquinto | Every Thanksgiving, I make the turkey |
+|Alejandro Lopez| I have 2 dogs and a turtle|
 | Jason Ho | Sharks have existed longer than trees. |
+|Jared Bears|Tomatoes, potatoes, and peppers are all part of the nightshade family and are toxic when unripe|
+| Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
+| Carlos Castaneda | I've traveled to 4 different continents. |
+| Alexandra Mompremier | I love to sew! |
+| Brenda Reyes | I broke 4 of toes all at once |
+|Aldo Portillo | I like water |
+| Thierry | I played Ragnarok Online when I was in elementary school |
+| Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
