@@ -52,3 +52,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | David Hibble         | A shrimp's heart is located in its head.|
 | Kat Jarboe           | Some cats have 6 beans per paw instead of 5 |
 | Alina Sapronova      | I hate frogs |
+| RJ                   | I love cheesecake! I love cheesecake! I love cheesecake! I love cheesecake! I love cheesecake!|
