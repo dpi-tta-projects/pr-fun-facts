@@ -59,3 +59,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Akin | I like to play basketball |
 | Alina Sapronova | I hate frogs |
 | Ethan Huang | I have watched almost 100 Korean dramas |
+|Brian Waddell| The Triangle is the strongest shape period | 
