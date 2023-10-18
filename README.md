@@ -14,6 +14,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | John Leavell | I make the best lemon pancakes. |
 | Dustin Doyle | I painted murals in Baghdad at the embassy. |
 | Ian Heraty | My first iOS app was about chickens crossing the road. |
+| Jazmine Tran | Cats can jump up to 6 times their height. |
 
 ## 2023-1.1 Hash Rockets
 
@@ -31,20 +32,27 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2023-9.1
 | Name | Fun Fact |
+| --- | --- |
+| Jacob Hoffmann | Elephants are the only animal can't jump. |
+| Andre Garner | I play Fortnite |
+| Carman Chiu | My dream is to become a great dancer :D |
 | Calvin Armstrong | I have a custom six-string electric cello that I designed and play heavy metal on. |
 | Jorge Pioquinto | Every Thanksgiving, I make the turkey |
-|Alejandro Lopez| I have 2 dogs and a turtle|
+| Alejandro Lopez| I have 2 dogs and a turtle|
 |Jared Bears|Tomatoes, potatoes, and peppers are all part of the nightshade family and are toxic when unripe|
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
 | Carlos Castaneda | I've traveled to 4 different continents. |
 | Alexandra Mompremier | I love to sew! |
 | Brenda Reyes | I broke 4 of toes all at once |
 |Aldo Portillo | I like water |
-| Thierry | I played Ragnarok Online when I was in elementary school |
-| Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
+| Dmitrii Sumenko | Dmitrii Sumenko | When Chuck Norris does push-ups, he doesn't push himself up, he pushes the Earth down.
+| Sara Schoonover | I have an 8 year old Dachshund mix named Comet. |
+| Thierry Chau | I played Ragnarok Online when I was in elementary school |
 | Jun So | The biggest bass I have caught is 4.97 lbs |
 | Andrew Cook | I like turtles|
 | David Hibble | A shrimp's heart is located in its head.|
-| Brenda Reyes | I broke 4 of my toes all at once |
 | Kat Jarboe | Some cats have 6 beans per paw instead of 5 |
 | Samuel Lubliner | I ride my bike to work |
+| Akin | I like to play basketball |
+| Alina Sapronova | I hate frogs |
+| Ethan Huang | I have watched almost 100 Korean dramas |
