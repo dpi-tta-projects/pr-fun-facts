@@ -62,5 +62,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Alina Sapronova      | I hate frogs |
 | Samuel Lubliner      | I ride my bike to work |
 | Ethan Huang          | I have watched almost 100 Korean dramas |
-
-
+| Brian Waddell        | The Triangle is the strongest shape period | 
