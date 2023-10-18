@@ -31,6 +31,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2023-9.1
 | Name | Fun Fact |
+| --- | --- |
 | Andre Garner | I play Fortnite |
 | Carman Chiu | My dream is to become a great dancer :D |
 | Calvin Armstrong | I have a custom six-string electric cello that I designed and play heavy metal on. |
@@ -50,3 +51,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | David Hibble | A shrimp's heart is located in its head.|
 | Kat Jarboe | Some cats have 6 beans per paw instead of 5 |
 | Alina Sapronova | I hate frogs |
+| Ethan Huang | I have watched almost 100 Korean dramas |
