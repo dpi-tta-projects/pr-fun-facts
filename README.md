@@ -31,8 +31,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2023-9.1
 | Name | Fun Fact |
-| Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
-| Samuel Lubliner| I ride my bike to work |
+| Calvin Armstrong | I have a custom six-string electric cello that I designed and play heavy metal on. |
+| Jorge Pioquinto | Every Thanksgiving, I make the turkey |
 |Alejandro Lopez| I have 2 dogs and a turtle|
 |Jared Bears|Tomatoes, potatoes, and peppers are all part of the nightshade family and are toxic when unripe|
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
@@ -40,9 +40,9 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Alexandra Mompremier | I love to sew! |
 | Brenda Reyes | I broke 4 of toes all at once |
 |Aldo Portillo | I like water |
-|Alejandro Lopes| I have 2 dogs and a turtle|
 | Thierry | I played Ragnarok Online when I was in elementary school |
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
+| Jun So | The biggest bass I have caught is 4.97 lbs |
 | Andrew Cook | I like turtles|
 | David Hibble | A shrimp's heart is located in its head.|
 | Brenda Reyes | I broke 4 of my toes all at once |
