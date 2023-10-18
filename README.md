@@ -31,4 +31,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2023-9.1
 | Name | Fun Fact |
-| --- | --- |
+| Jason Ho | Sharks have existed longer than trees. |
