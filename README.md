@@ -53,6 +53,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Andrew Cook | I like turtles|
 | David Hibble | A shrimp's heart is located in its head.|
 | Kat Jarboe | Some cats have 6 beans per paw instead of 5 |
+| Samuel Lubliner | I ride my bike to work |
 | Akin | I like to play basketball |
 | Alina Sapronova | I hate frogs |
 | Ethan Huang | I have watched almost 100 Korean dramas |
