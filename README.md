@@ -55,6 +55,21 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Alejandro Lopez      | I have 2 dogs and a turtle |
 | Samuel Lubliner      | I ride my bike to work |
 | Alexandra Mompremier | I love to sew! |
+| Brenda Reyes         | I broke 4 of toes all at once |
+| Aldo Portillo        | I like water |
+| Dmitrii Sumenko      | When Chuck Norris does push-ups, he doesn't push himself up, he pushes the Earth down.
+| Sara Schoonover      | I have an 8 year old Dachshund mix named Comet. |
+| Thierry Chau         | I played Ragnarok Online when I was in elementary school |
+| Jun So               | The biggest bass I have caught is 4.97 lbs |
+| Andrew Cook          | I like turtles|
+| David Hibble         | A shrimp's heart is located in its head.|
+| Kat Jarboe           | Some cats have 6 beans per paw instead of 5 |
+| Alina Sapronova      | I hate frogs |
+| RJ                   | I love cheesecake! I love cheesecake! I love cheesecake! I love cheesecake! I love cheesecake!|
+| Samuel Lubliner      | I ride my bike to work |
+| Akin                 | I like to play basketball |
+| Alina Sapronova      | I hate frogs |
+| Ethan Huang          | I have watched almost 100 Korean dramas |
 | Jorge Pioquinto      | Every Thanksgiving, I make the turkey |
 | Aldo Portillo        | I like water |
 | Brenda Reyes         | I broke 4 of my toes all at once |
@@ -63,3 +78,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Jun So               | The biggest bass I have caught is 4.97 lbs |
 | Dmitrii Sumenko      | When Chuck Norris does push-ups, he doesn't push himself up, he pushes the Earth down |
 | Brian Waddell        | The Triangle is the strongest shape period | 
+
