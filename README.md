@@ -116,4 +116,3 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Salvador Castaneda | I have visited 16 cities (outside the US) |
 | Alana Edwards        | My favorite color is pink. |
 | Crystal Tliourane    | I enjoy spicy foods! |
-
