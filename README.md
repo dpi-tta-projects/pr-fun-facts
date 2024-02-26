@@ -82,4 +82,35 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-2.1
 
 | Name                 | Fun Fact |
+
 | Jose Pantoja Jr  | The average colour of the Universe is beige. The Universe may appear like a vast expanse of darkness but the average colour is actually beige, according to scientists.  |
+| -------------------- | --- |
+| Jason Johnson        | I've had two goldfishes. |
+|Eduardo Villa         | Orcas and humans share an ability for culture-based evolution |
+| Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
+| John Paul Fababaer   | I was born in Florence, Italy and was named after Pope John Paul II |
+| Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
+| Gustavo Gutierrez.   | The reason Tarzan was clean shaven even though he was raised in the jungle is because in the novel he found his dads shaving kit and used it growing up. The movie doesnt show that part. |
+| Reid Aumann | My parents share the same birthday |
+| Joanna Rodriguez     | I have 2 cats and 1 dog || Amanda Mendez  | Favorite color is pink |
+| John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
+| Vincent Pham         | I like taking walks in Chicago's Museum Campus |
+| Amanda Mendez  | Favorite color is pink |
+| John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
+| Reid Aumann | My parents share the same birthday |
+| Vincent Pham         | I like taking walks in Chicago's Museum Campus |
+| David Le             | I built my own computer.|
+| Amanda Mendez        | Favorite color is pink |
+| Winnie Wu            | I am terrible at sports |
+| Shafaq Juda          | I can bake Cake         |
+| Kiowa Scott          | I love Shrek |
+| David Le             | I built my own computer.|
+| Sera Oraha           | I can read and write Assyrian |
+| Shafaq Juda          | I can bake Cake|
+| Kiowa Scott          | I love Shrek |
+| Mary Webby           | I fear mascots and puppets |
+| David Le             | I built my own computer.|
+| Lateef Idris         | Illinois is a state | 
+| Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
+| Andrew Pham          | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals |
+
