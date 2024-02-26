@@ -83,3 +83,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
