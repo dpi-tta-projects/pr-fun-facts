@@ -79,3 +79,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Dmitrii Sumenko      | When Chuck Norris does push-ups, he doesn't push himself up, he pushes the Earth down |
 | Brian Waddell        | The Triangle is the strongest shape period | 
 
+## 2024-2.1
+
+| Name                 | Fun Fact |
+| -------------------- | --- |
