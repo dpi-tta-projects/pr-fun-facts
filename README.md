@@ -86,3 +86,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
   Kiowa Scott          | I love Shrek |
 | Reid Aumann | My parents share the same birthday |
 | Vincent Pham         | I like taking walks in Chicago's Museum Campus |
+| Winnie Wu            | I am terrible at sports |
+
