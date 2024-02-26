@@ -94,6 +94,11 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Amanda Mendez  | Favorite color is pink |
 | John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
 | Winnie Wu            | I am terrible at sports |
+
+| Shafaq Juda          | I can bake Cake         |
 | Kiowa Scott          | I love Shrek |
+
+| David Le             | I built my own computer.|
+
 | David Le             | I built my own computer.|
 
