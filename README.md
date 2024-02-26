@@ -91,4 +91,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Amanda Mendez  | Favorite color is pink |
 | John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
 | Winnie Wu            | I am terrible at sports |
+| Cisco Vlahakis       | The study of rust is called uredinology |
 | David Le             | I built my own computer.|
