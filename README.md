@@ -107,3 +107,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | David Le             | I built my own computer.|
 | Lateef Idris         | Illinois is a state | 
 | Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
+| Dylan Menard         | I dont like fries |
