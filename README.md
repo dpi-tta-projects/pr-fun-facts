@@ -87,3 +87,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Vincent Pham         | I like taking walks in Chicago's Museum Campus |
 | David Le             | I built my own computer.|
 
+| Winnie Wu            | I am terrible at sports |
