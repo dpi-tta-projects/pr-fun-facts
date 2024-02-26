@@ -83,6 +83,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Salvador Castaneda | I have visited 16 cities (outside the US) |
 | Alana Edwards        | My favorite color is pink. |
 | Crystal Tliourane    | I enjoy spicy foods! |
 | Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
@@ -98,3 +99,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | David Le             | I built my own computer.|
 | Lateef Idris         | Illinois is a state | 
 | Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
+
