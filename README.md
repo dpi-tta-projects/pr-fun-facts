@@ -82,7 +82,9 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-2.1
 
 | Name                 | Fun Fact |
-| -------------------- | --- |
+
+| Crystal Tliourane    | I enjoy spicy foods! |
+
 | Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
 | John Paul Fababaer   | I was born in Florence, Italy and was named after Pope John Paul II |
 | Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
@@ -92,6 +94,11 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Amanda Mendez  | Favorite color is pink |
 | John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
 | Winnie Wu            | I am terrible at sports |
+
+| Shafaq Juda          | I can bake Cake         |
 | Kiowa Scott          | I love Shrek |
+
+| David Le             | I built my own computer.|
+
 | David Le             | I built my own computer.|
 | Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
