@@ -68,12 +68,11 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
-| Alana Edwards        | My favorite color is pink. |
-| Amanda Mendez        | Favorite color is pink |
-| Andrew Pham          | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals |
+| Jason Johnson        | I've had two goldfishes. |
+|Eduardo Villa         | Orcas and humans share an ability for culture-based evolution |
 | Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
-| Crystal Tliourane    | I enjoy spicy foods! |
-| David Le             | I built my own computer.|
+| John Paul Fababaer   | I was born in Florence, Italy and was named after Pope John Paul II |
+| Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
 | Gustavo Gutierrez.   | The reason Tarzan was clean shaven even though he was raised in the jungle is because in the novel he found his dads shaving kit and used it growing up. The movie doesnt show that part. |
 | Jason Johnson        | I've had two goldfishes. |
 | Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
