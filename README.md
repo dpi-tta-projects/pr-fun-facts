@@ -83,6 +83,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Jose Montes De Oca Morfin | A fear of long words is called Hippopotomonstrosesquippedaliophobia ._.|
+| Salvador Castaneda | I have visited 16 cities (outside the US) |
 | Alana Edwards        | My favorite color is pink. |
 | Crystal Tliourane    | I enjoy spicy foods! |
 | Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
@@ -96,10 +98,15 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Reid Aumann | My parents share the same birthday |
 | Vincent Pham         | I like taking walks in Chicago's Museum Campus |
 | David Le             | I built my own computer.|
+| Amanda Mendez        | Favorite color is pink |
 | Winnie Wu            | I am terrible at sports |
+| Shafaq Juda          | I can bake Cake         |
+| Kiowa Scott          | I love Shrek |
+| David Le             | I built my own computer.|
 | Shafaq Juda          | I can bake Cake|
 | Kiowa Scott          | I love Shrek |
 | David Le             | I built my own computer.|
 | Lateef Idris         | Illinois is a state | 
 | Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
 | Andrew Pham          | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals |
+
