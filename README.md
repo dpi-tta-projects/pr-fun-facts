@@ -83,10 +83,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
-| Jose Montes De Oca Morfin | A fear of long words is called Hippopotomonstrosesquippedaliophobia ._.|
-| Salvador Castaneda | I have visited 16 cities (outside the US) |
-| Alana Edwards        | My favorite color is pink. |
-| Crystal Tliourane    | I enjoy spicy foods! |
+|Eduardo Villa         | Orcas and humans share an ability for culture-based evolution |
+=========
 | Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
 | John Paul Fababaer   | I was born in Florence, Italy and was named after Pope John Paul II |
 | Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
