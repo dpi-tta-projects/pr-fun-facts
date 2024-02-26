@@ -83,4 +83,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
-| Alana Edwards        | My favorite color is pink |
+| Alana Edwards        | My favorite color is pink. |
