@@ -83,3 +83,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Gustavo Gutierrez.   | The reason Tarzan was clean shaven even though he was raised in the jungle because in the novel he found his dads shaving kit and used it growing up. The movie doesnt show that part. |
