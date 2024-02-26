@@ -82,4 +82,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-2.1
 
 | Name                 | Fun Fact |
-| -------------------- | --- |
+| Crystal Tliourane    | I enjoy spicy foods! |
