@@ -82,4 +82,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-2.1
 
 | Name                 | Fun Fact |
-| -------------------- | --- |
+| Jose Pantoja Jr  |  A spacecraft leaving the surface of Earth, for example, needs to be going about 11 kilometers (7 miles) per second, or over 40,000 kilometers per hour (25,000 miles per hour), to enter orbit. |
