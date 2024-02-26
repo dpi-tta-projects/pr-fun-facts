@@ -93,6 +93,11 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Joanna Rodriguez     | I have 2 cats and 1 dog || Amanda Mendez  | Favorite color is pink |
 | John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
 | Vincent Pham         | I like taking walks in Chicago's Museum Campus |
+| Amanda Mendez  | Favorite color is pink |
+| John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
+| Reid Aumann | My parents share the same birthday |
+| Vincent Pham         | I like taking walks in Chicago's Museum Campus |
+| David Le             | I built my own computer.|
 | Amanda Mendez        | Favorite color is pink |
 | Winnie Wu            | I am terrible at sports |
 | Shafaq Juda          | I can bake Cake         |
@@ -105,4 +110,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | David Le             | I built my own computer.|
 | Lateef Idris         | Illinois is a state | 
 | Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
-| Dylan Menard         | I dont like fries |
+| Andrew Pham          | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals |
+
