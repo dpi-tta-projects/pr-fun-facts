@@ -82,4 +82,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-2.1
 
 | Name                 | Fun Fact |
-| -------------------- | --- |
+| Jose Pantoja Jr  | The average colour of the Universe is beige. The Universe may appear like a vast expanse of darkness but the average colour is actually beige, according to scientists.  |
