@@ -94,3 +94,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Winnie Wu            | I am terrible at sports |
 | Kiowa Scott          | I love Shrek |
 | David Le             | I built my own computer.|
+| Sera Oraha           | I can read and write Assyrian |
