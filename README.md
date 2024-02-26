@@ -82,6 +82,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-2.1
 
 | Name                 | Fun Fact |
+| Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
 | -------------------- | --- |
 | Gustavo Gutierrez.   | The reason Tarzan was clean shaven even though he was raised in the jungle is because in the novel he found his dads shaving kit and used it growing up. The movie doesnt show that part. |
 | Amanda Mendez  | Favorite color is pink |
