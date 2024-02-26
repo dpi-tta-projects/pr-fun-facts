@@ -82,6 +82,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-2.1
 
 | Name                 | Fun Fact |
+
+| Jose Pantoja Jr  | The average colour of the Universe is beige. The Universe may appear like a vast expanse of darkness but the average colour is actually beige, according to scientists.  |
 | -------------------- | --- |
 | Jason Johnson        | I've had two goldfishes. |
 |Eduardo Villa         | Orcas and humans share an ability for culture-based evolution |
@@ -98,12 +100,10 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Reid Aumann | My parents share the same birthday |
 | Vincent Pham         | I like taking walks in Chicago's Museum Campus |
 | David Le             | I built my own computer.|
-| Amanda Mendez        | Favorite color is pink |
 | Winnie Wu            | I am terrible at sports |
 
 | Shafaq Juda          | I can bake Cake         |
 | Kiowa Scott          | I love Shrek |
 | David Le             | I built my own computer.|
-
-| David Le             | I built my own computer.|
+| Alana Edwards        | I have been in two major earthquakes. |
 
