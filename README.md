@@ -83,4 +83,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Reid Aumann | My parents share the same birthday |
+| Vincent Pham         | I like taking walks in Chicago's Museum Campus |
 | Lateef Idris      | Illinois is a state |
