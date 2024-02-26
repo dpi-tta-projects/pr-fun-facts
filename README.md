@@ -82,5 +82,22 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-2.1
 
 | Name                 | Fun Fact |
-| -------------------- | --- |
-| Joanna Rodriguez     | I have 2 cats and 1 dog |
+
+| Crystal Tliourane    | I enjoy spicy foods! |
+
+| Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
+| John Paul Fababaer   | I was born in Florence, Italy and was named after Pope John Paul II |
+| Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
+| Gustavo Gutierrez.   | The reason Tarzan was clean shaven even though he was raised in the jungle is because in the novel he found his dads shaving kit and used it growing up. The movie doesnt show that part. |
+| Reid Aumann | My parents share the same birthday |
+| Joanna Rodriguez     | I have 2 cats and 1 dog || Amanda Mendez  | Favorite color is pink |
+| John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
+| Winnie Wu            | I am terrible at sports |
+
+| Shafaq Juda          | I can bake Cake         |
+| Kiowa Scott          | I love Shrek |
+
+| David Le             | I built my own computer.|
+
+| David Le             | I built my own computer.|
+
