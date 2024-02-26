@@ -84,3 +84,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Vincent Pham         | I like taking walks in Chicago's Museum Campus |
+| Cisco Vlahakis       | The study of rust is called uredinology |
