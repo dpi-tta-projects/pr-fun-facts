@@ -82,4 +82,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-2.1
 
 | Name                 | Fun Fact |
-| -------------------- | --- |
+| Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
