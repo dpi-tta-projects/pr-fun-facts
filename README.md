@@ -113,4 +113,3 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Lateef Idris         | Illinois is a state | 
 | Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
 | Andrew Pham          | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals. Think about this everytime you taking some sweet treats |
-
