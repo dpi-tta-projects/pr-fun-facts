@@ -86,6 +86,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
 | Reid Aumann | My parents share the same birthday |
 | Vincent Pham         | I like taking walks in Chicago's Museum Campus |
-| Winnie Wu            | I am terrible at sports |
+| Amanda Mendez  | Favorite color is pink |
 | John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
+| Winnie Wu            | I am terrible at sports |
 | David Le             | I built my own computer.|
