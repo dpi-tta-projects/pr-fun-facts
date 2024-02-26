@@ -84,6 +84,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Jose Montes De Oca Morfin | A fear of long words is called Hippopotomonstrosesquippedaliophobia ._.|
+| Alana Edwards        | My favorite color is pink. |
 | Crystal Tliourane    | I enjoy spicy foods! |
 | Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
 | John Paul Fababaer   | I was born in Florence, Italy and was named after Pope John Paul II |
