@@ -83,21 +83,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Jason Johnson        | I've had two goldfishes. |
