@@ -83,6 +83,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Gustavo Gutierrez.   | The reason Tarzan was clean shaven even though he was raised in the jungle is because in the novel he found his dads shaving kit and used it growing up. The movie doesnt show that part. |
 | Amanda Mendez  | Favorite color is pink |
 | John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
 | Reid Aumann | My parents share the same birthday |
