@@ -83,3 +83,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+|David Le              | I built my own computer.|
