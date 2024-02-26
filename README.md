@@ -84,4 +84,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Amanda Mendez  | Favorite color is pink |
-
+| Vincent Pham         | I like taking walks in Chicago's Museum Campus |
