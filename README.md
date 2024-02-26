@@ -92,16 +92,18 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
 | Gustavo Gutierrez.   | The reason Tarzan was clean shaven even though he was raised in the jungle is because in the novel he found his dads shaving kit and used it growing up. The movie doesnt show that part. |
 | Reid Aumann | My parents share the same birthday |
+| Joanna Rodriguez     | I have 2 cats and 1 dog || Amanda Mendez  | Favorite color is pink |
+| John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
 | Vincent Pham         | I like taking walks in Chicago's Museum Campus |
 | Amanda Mendez        | Favorite color is pink |
 | Winnie Wu            | I am terrible at sports |
 | Shafaq Juda          | I can bake Cake         |
 | Kiowa Scott          | I love Shrek |
 | David Le             | I built my own computer.|
+| Sera Oraha           | I can read and write Assyrian |
 | Shafaq Juda          | I can bake Cake|
 | Kiowa Scott          | I love Shrek |
 | David Le             | I built my own computer.|
 | Lateef Idris         | Illinois is a state | 
 | Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
 | Dylan Menard         | I dont like fries |
-
