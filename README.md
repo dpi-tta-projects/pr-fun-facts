@@ -86,4 +86,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
 | Reid Aumann | My parents share the same birthday |
 | Vincent Pham         | I like taking walks in Chicago's Museum Campus |
-
+| Winnie Wu            | I am terrible at sports |
