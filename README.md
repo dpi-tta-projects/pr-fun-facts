@@ -82,9 +82,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-2.1
 
 | Name                 | Fun Fact |
-
-| Jose Pantoja Jr  | The average colour of the Universe is beige. The Universe may appear like a vast expanse of darkness but the average colour is actually beige, according to scientists.  |
 | -------------------- | --- |
+| Jose Pantoja Jr  | The average colour of the Universe is beige. The Universe may appear like a vast expanse of darkness but the average colour is actually beige, according to scientists.  |
 | Jason Johnson        | I've had two goldfishes. |
 |Eduardo Villa         | Orcas and humans share an ability for culture-based evolution |
 | Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
@@ -113,4 +112,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Lateef Idris         | Illinois is a state | 
 | Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
 | Andrew Pham          | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals |
+| Jose Montes De Oca Morfin | A fear of long words is called Hippopotomonstrosesquippedaliophobia ._.|
+| Salvador Castaneda | I have visited 16 cities (outside the US) |
+| Alana Edwards        | My favorite color is pink. |
+| Crystal Tliourane    | I enjoy spicy foods! |
 
