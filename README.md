@@ -83,6 +83,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Crystal Tliourane    | I enjoy spicy foods! |
 | Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
 | John Paul Fababaer   | I was born in Florence, Italy and was named after Pope John Paul II |
 | Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
@@ -95,3 +96,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Kiowa Scott          | I love Shrek |
 | David Le             | I built my own computer.|
 | Mary Webby           | I fear mascots and puppets |
+
+
