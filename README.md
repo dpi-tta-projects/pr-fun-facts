@@ -83,3 +83,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| John Paul Fababaer | I was born in Florence, Italy and was named after Pope John Paul II |
