@@ -103,6 +103,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Sera Oraha           | I can read and write Assyrian |
 | Shafaq Juda          | I can bake Cake|
 | Kiowa Scott          | I love Shrek |
+| Mary Webby           | I fear mascots and puppets |
 | David Le             | I built my own computer.|
 | Lateef Idris         | Illinois is a state | 
 | Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
