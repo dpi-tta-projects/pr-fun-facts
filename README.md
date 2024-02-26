@@ -83,3 +83,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Andrew Pham          | Running with 4.0 speed and 9.0 incline for 30 minutes only burn 300 cals |
