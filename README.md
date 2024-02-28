@@ -19,7 +19,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Mena Castillo        | I like turtles |
 
 
-| Robert Sfarzo | I like Nebraska. |
 
 ## 2023-1.1 Hash Rockets
 
