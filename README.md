@@ -52,7 +52,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | David Hibble         | A shrimp's heart is located in its head |
 | Dmitrii Sumenko      | When Chuck Norris does push-ups, he doesn't push himself up, he pushes the Earth down |
 | Ethan Huang          | I have watched almost 100 Korean dramas |
-| Ethan Huang          | I have watched almost 100 Korean dramas |
 | Fidel Leal           | I am about the only Cuban that cannot dance, swim or play baseball :) |
 | Jacob Hoffmann       | Elephants are the only animal can't jump |
 | Jared Bears          | Tomatoes, potatoes, and peppers are all part of the nightshade family and are toxic when unripe |
