@@ -88,4 +88,12 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Reid Aumann | My parents share the same birthday |
 | Rohan Mendiratta     | I was born on the day of the Superbowl | 
 | Salvador Castaneda | I have visited 16 cities (outside the US) |
+| Sera Oraha           | I can read and write Assyrian |
+| Shafaq Juda          | I can bake Cake|
+| Vincent Pham         | I like taking walks in Chicago's Museum Campus |
+| Winnie Wu            | I am terrible at sports |
+| Eduardo Villa        | Orcas and humans share an ability for culture-based evolution |
+| Benjamin Guzman      | I have met Gherbo before|
+| Alana Edwards        | My favorite color is pink. |
+| Crystal Tliourane    | I enjoy spicy foods! |
 | Lamont Sampson       | Earth is pretty big, but it's tiny compared to the rest of the universe.  For perspective : Around 1,000 Earths can fit inside Jupiter.  Around 1,000 Jupiters can fit inside the sun and over 1 billion suns can fit inside the star Betelgeuse. |
