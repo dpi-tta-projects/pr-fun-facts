@@ -103,6 +103,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Rebecca Herrera | If the Earth doubled in size, trees would immediately fall down. |
 | Benny Joram          | I have 2 dogs and 3 cats |
 | Aizat Ibraimova      |Bananas are berries, but strawberries are not.
 | Arpan Patel | I sleep walk |
