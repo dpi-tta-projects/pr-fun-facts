@@ -104,6 +104,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 |Natalie Demyanenko| Check out this address a couple of stations north of here for a stunningly beautiful Art Nouveau space! --78 E Washington St, Chicago, IL 60602|
+| Rebecca Herrera | If the Earth doubled in size, trees would immediately fall down. |
+| Benny Joram          | I have 2 dogs and 3 cats |
 | Aizat Ibraimova      |Bananas are berries, but strawberries are not.
 | Arpan Patel | I sleep walk |
 | Jan Niewielski       | I am the first in my family to graduate from university |
@@ -117,3 +119,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Young Song      | My biking speed is slower than running |
 | Aleksei Borovikov    | I would love to visit Japan. |
 | Herman Contreras     | Combine blue and red to make purple |
+| Brandon Varner    | Alabama's Cahaba River is known as "America's Amazon" |
