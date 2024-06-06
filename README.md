@@ -103,6 +103,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Benny Joram          | I have 2 dogs and 3 cats |
 | Aizat Ibraimova      |Bananas are berries, but strawberries are not.
 | Arpan Patel | I sleep walk |
 | Jan Niewielski       | I am the first in my family to graduate from university |
@@ -114,5 +115,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Jan Niewielski       | I am the first in my family to graduate from university |
 | Ricardo Juarez       | I used to make pastries for celebrities |
 | Young Song      | My biking speed is slower than running |
-| Aleksei Borovikov    | I would love to visit Japan. || Todd McFarlin        | My highest rank in LoL was Plat 2|
+| Aleksei Borovikov    | I would love to visit Japan. |
 | Todd McFarlin        | My highest rank in LoL was Plat 2|
+| Herman Contreras     | Combine blue and red to make purple |
+| Brandon Varner    | Alabama's Cahaba River is known as "America's Amazon" |
