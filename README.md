@@ -103,6 +103,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Rebecca Herrera | If the Earth doubled in size, trees would immediately fall down. |
 | Benny Joram          | I have 2 dogs and 3 cats |
 | Aizat Ibraimova      |Bananas are berries, but strawberries are not.
 | Arpan Patel | I sleep walk |
@@ -119,4 +120,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Aleksei Borovikov    | I would love to visit Japan. |
 | Herman Contreras     | Combine blue and red to make purple |
 | Brandon Varner    | Alabama's Cahaba River is known as "America's Amazon" |
-
+| Kurt Mauritz         | The Earth is always flat on a map. |
