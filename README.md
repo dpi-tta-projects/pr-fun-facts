@@ -102,8 +102,14 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
-| Adolfo Nava | Male horses have 40-42 teeth while female horses could have 36-40 |
+| Arpan Patel | I sleep walk |
+| Jan Niewielski       | I am the first in my family to graduate from university |
 | Kevin Calva    | My favorite color is orange. |
 | Jan Niewielski       | I am the first in my family to graduate from university |
+| Adolfo Nava | Male horses have 40-42 teeth while female horses could have 36-40 |
+| Kevin Calva    | My favorite color is orange. |
+| Ray Gunawidjaja      | Rice is no longer my staple food |
+| Jan Niewielski       | I am the first in my family to graduate from university |
 | Ricardo Juarez       | I used to make pastries for celebrities |
+| Young Song      | My biking speed is slower than running |
 | Aleksei Borovikov    | I would love to visit Japan. |
