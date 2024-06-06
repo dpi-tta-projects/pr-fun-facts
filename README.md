@@ -68,6 +68,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+|Eduardo Villa         | Orcas and humans share an ability for culture-based evolution |
 | Alana Edwards        | My favorite color is pink. |
 | Amanda Mendez        | Favorite color is pink |
 | Andrew Pham          | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals |
@@ -103,3 +104,14 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Aizat Ibraimova      |Bananas are berries, but strawberries are not.
+| Arpan Patel | I sleep walk |
+| Jan Niewielski       | I am the first in my family to graduate from university |
+| Kevin Calva    | My favorite color is orange. |
+| Jan Niewielski       | I am the first in my family to graduate from university |
+| Adolfo Nava | Male horses have 40-42 teeth while female horses could have 36-40 |
+| Kevin Calva    | My favorite color is orange. |
+| Ray Gunawidjaja      | Rice is no longer my staple food |
+| Jan Niewielski       | I am the first in my family to graduate from university |
+| Ricardo Juarez       | I used to make pastries for celebrities |
+| Young Song      | My biking speed is slower than running |
+
