@@ -106,3 +106,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Kevin Calva    | My favorite color is orange. |
 | Jan Niewielski       | I am the first in my family to graduate from university |
 | Ricardo Juarez       | I used to make pastries for celebrities |
+|  Maya Sheriff        | I love Lucky Daye; great music!|
