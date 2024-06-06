@@ -111,4 +111,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Ricardo Juarez       | I used to make pastries for celebrities |
 | Young Song      | My biking speed is slower than running |
 >>>>>>> 9b6ad22 (add: young's fun fact)
-| Aleksei Borovikov    | I would love to visit Japan. |
+| Aleksei Borovikov    | I would love to visit Japan. || Aizat Ibraimova      |Bananas are berries, but strawberries are not.
