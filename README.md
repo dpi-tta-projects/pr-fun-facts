@@ -101,4 +101,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-5.1
 
 | Name                 | Fun Fact |
-| -------------------- | --- |
+| Yusra Ahmed          | The moon is slowly moving further away from Earth each year. |
