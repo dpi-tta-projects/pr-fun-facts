@@ -99,9 +99,12 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Lamont Sampson       | Earth is pretty big, but it's tiny compared to the rest of the universe.  For perspective : Around 1,000 Earths can fit inside Jupiter.  Around 1,000 Jupiters can fit inside the sun and over 1 billion suns can fit inside the star Betelgeuse. |
 
 ## 2024-5.1
-
 | Name                 | Fun Fact |
 | -------------------- | --- |
-  Reza Husain           I played basketball with an ex-NBA player.
+| Reza Husain   | I played basketball with an ex-NBA player.
 | Kevin Calva    | My favorite color is orange. |
 | Jan Niewielski       | I am the first in my family to graduate from university |
+| Adolfo Nava | Male horses have 40-42 teeth while female horses could have 36-40 |
+| Kevin Calva    | My favorite color is orange. |
+| Jan Niewielski       | I am the first in my family to graduate from university |
+| Ricardo Juarez       | I used to make pastries for celebrities |
