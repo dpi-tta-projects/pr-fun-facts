@@ -112,5 +112,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Ray Gunawidjaja      | Rice is no longer my staple food |
 | Jan Niewielski       | I am the first in my family to graduate from university |
 | Ricardo Juarez       | I used to make pastries for celebrities |
-| Young Song      | My biking speed is slower than running |
-
+| Young Song      | My biking speed is slower than running
+| Brandon Varner    | Alabama's Cahaba River is known as "America's Amazon" |
