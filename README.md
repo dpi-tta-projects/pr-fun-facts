@@ -102,3 +102,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Rebecca Herrera | If the Earth doubled in size, tress would immediately fall down. |
