@@ -68,6 +68,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+|Eduardo Villa         | Orcas and humans share an ability for culture-based evolution |
 | Alana Edwards        | My favorite color is pink. |
 | Amanda Mendez        | Favorite color is pink |
 | Andrew Pham          | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals |
@@ -99,15 +100,29 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Lamont Sampson       | Earth is pretty big, but it's tiny compared to the rest of the universe.  For perspective : Around 1,000 Earths can fit inside Jupiter.  Around 1,000 Jupiters can fit inside the sun and over 1 billion suns can fit inside the star Betelgeuse. |
 
 ## 2024-5.1
-
 | Name                 | Fun Fact |
 | -------------------- | --- |
 |    Fadi Baker        | I'm half Jordanian half Armenian |
+|Natalie Demyanenko| Check out this address a couple of stations north of here for a stunningly beautiful Art Nouveau space! --78 E Washington St, Chicago, IL 60602|
+| Reza Husain   | I played basketball with an ex-NBA player.
+| Rebecca Herrera | If the Earth doubled in size, trees would immediately fall down. |
+| Benny Joram          | I have 2 dogs and 3 cats |
+| Aizat Ibraimova      |Bananas are berries, but strawberries are not.
 | Arpan Patel | I sleep walk |
 | Jan Niewielski       | I am the first in my family to graduate from university |
 | Kevin Calva    | My favorite color is orange. |
+| Kevin Calva          | My favorite color is orange. |
 | Jan Niewielski       | I am the first in my family to graduate from university |
 | Adolfo Nava | Male horses have 40-42 teeth while female horses could have 36-40 |
 | Kevin Calva    | My favorite color is orange. |
+| Ray Gunawidjaja      | Rice is no longer my staple food |
 | Jan Niewielski       | I am the first in my family to graduate from university |
 | Ricardo Juarez       | I used to make pastries for celebrities |
+| Maya Sheriff        | I love Lucky Daye; great music!|
+| Young Song      | My biking speed is slower than running |
+| Jennifer Rahman      | I love frogs! |
+| Aleksei Borovikov    | I would love to visit Japan. |
+| Herman Contreras     | Combine blue and red to make purple |
+| Brandon Varner    | Alabama's Cahaba River is known as "America's Amazon" |
+| Chinemelum Iloegbunam| I've been skydiving multiple times and in the proccess to get my license|
+| Kurt Mauritz         | The Earth is always flat on a map. |
