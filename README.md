@@ -101,7 +101,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-5.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
-| Dylan Sarikas        | The Fun Fact "You eat 8 spiders during your sleep over the course of your life" is actually a myth |
 | Kevin Calva    | My favorite color is orange. |
 | Jan Niewielski       | I am the first in my family to graduate from university |
 
