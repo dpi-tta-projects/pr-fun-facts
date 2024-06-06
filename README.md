@@ -102,3 +102,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Dylan Sarikas        | The Fun Fact "You eat 8 spiders during your sleep over the course of your life" is actually a myth |
