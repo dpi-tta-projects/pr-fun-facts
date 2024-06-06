@@ -100,10 +100,10 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Lamont Sampson       | Earth is pretty big, but it's tiny compared to the rest of the universe.  For perspective : Around 1,000 Earths can fit inside Jupiter.  Around 1,000 Jupiters can fit inside the sun and over 1 billion suns can fit inside the star Betelgeuse. |
 
 ## 2024-5.1
-
 | Name                 | Fun Fact |
 | -------------------- | --- |
 |Natalie Demyanenko| Check out this address a couple of stations north of here for a stunningly beautiful Art Nouveau space! --78 E Washington St, Chicago, IL 60602|
+| Reza Husain   | I played basketball with an ex-NBA player.
 | Rebecca Herrera | If the Earth doubled in size, trees would immediately fall down. |
 | Benny Joram          | I have 2 dogs and 3 cats |
 | Aizat Ibraimova      |Bananas are berries, but strawberries are not.
@@ -120,3 +120,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Aleksei Borovikov    | I would love to visit Japan. |
 | Herman Contreras     | Combine blue and red to make purple |
 | Brandon Varner    | Alabama's Cahaba River is known as "America's Amazon" |
+| Kurt Mauritz         | The Earth is always flat on a map. |
