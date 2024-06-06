@@ -102,3 +102,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Jan Niewielski       | I am the first in my family to graduate from university |
