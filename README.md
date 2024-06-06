@@ -101,6 +101,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-5.1
 | Name           | Fun Fact                                                   |
 | -------------- | ---------------------------------------------------------- |
-| Brandon Varner | Alabama's Cahaba River is also known as "America's Amazon" |
 | Kevin Calva    | My favorite color is orange. |
 | Jan Niewielski       | I am the first in my family to graduate from university |
+| Ricardo Juarez       | I used to make pastries for celebrities |
+| Brandon Varner | Alabama's Cahaba River is also known as "America's Amazon" |
