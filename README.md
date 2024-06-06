@@ -102,4 +102,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
-| Arpan Patel | I sleep walk |
+| Arpan Patel | I sleep walk || Jan Niewielski       | I am the first in my family to graduate from university |
