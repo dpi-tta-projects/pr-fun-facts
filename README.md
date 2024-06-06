@@ -103,3 +103,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Kevin Calva    | My favorite color is orange. |
+| Jan Niewielski       | I am the first in my family to graduate from university |
