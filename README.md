@@ -101,9 +101,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-5.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
-| Kevin Calva    | My favorite color is orange. |
-| Jan Niewielski       | I am the first in my family to graduate from university |
-| Ricardo Juarez       | I used to make pastries for celebrities |
 | Ray Gunawidjaja      | Rice is not longer my staple food |
 
-| Herman Contreras     | Combine blue and red to make purple || Arpan Patel | I sleep walk || Adolfo Nava | Male horses have 40-42 teeth while female horses could have 36-40 |
+| Jan Niewielski       | I am the first in my family to graduate from university |
