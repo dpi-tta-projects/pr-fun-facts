@@ -117,6 +117,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Ricardo Juarez       | I used to make pastries for celebrities |
 | Maya Sheriff        | I love Lucky Daye; great music!|
 | Young Song      | My biking speed is slower than running |
+| Jennifer Rahman      | I love frogs! |
 | Aleksei Borovikov    | I would love to visit Japan. |
 | Herman Contreras     | Combine blue and red to make purple |
 | Brandon Varner    | Alabama's Cahaba River is known as "America's Amazon" |
