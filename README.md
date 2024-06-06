@@ -68,6 +68,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+|Eduardo Villa         | Orcas and humans share an ability for culture-based evolution |
 | Alana Edwards        | My favorite color is pink. |
 | Amanda Mendez        | Favorite color is pink |
 | Andrew Pham          | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals |
