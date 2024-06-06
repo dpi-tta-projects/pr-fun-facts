@@ -102,3 +102,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Herman Contreras     | Combine blue and red to make purple |
