@@ -101,4 +101,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-5.1
 
 | Name                 | Fun Fact |
-| -------------------- | --- |
+| Kurt Mauritz         | The Earth is always flat on a map. |
