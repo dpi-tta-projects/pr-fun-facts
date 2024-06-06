@@ -99,7 +99,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Lamont Sampson            | Earth is pretty big, but it's tiny compared to the rest of the universe. For perspective : Around 1,000 Earths can fit inside Jupiter. Around 1,000 Jupiters can fit inside the sun and over 1 billion suns can fit inside the star Betelgeuse. |
 
 ## 2024-5.1
-
 | Name           | Fun Fact                                                   |
 | -------------- | ---------------------------------------------------------- |
 | Brandon Varner | Alabama's Cahaba River is also known as "America's Amazon" |
+| Jan Niewielski       | I am the first in my family to graduate from university |
