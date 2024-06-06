@@ -103,3 +103,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Adolfo Nava | Male horses have 40-42 teeth while female horses could have 36-40 |
+| Kevin Calva    | My favorite color is orange. |
+| Jan Niewielski       | I am the first in my family to graduate from university |
