@@ -110,6 +110,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Arpan Patel | I sleep walk |
 | Jan Niewielski       | I am the first in my family to graduate from university |
 | Kevin Calva    | My favorite color is orange. |
+| Kevin Calva          | My favorite color is orange. |
 | Jan Niewielski       | I am the first in my family to graduate from university |
 | Adolfo Nava | Male horses have 40-42 teeth while female horses could have 36-40 |
 | Kevin Calva    | My favorite color is orange. |
@@ -122,4 +123,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Aleksei Borovikov    | I would love to visit Japan. |
 | Herman Contreras     | Combine blue and red to make purple |
 | Brandon Varner    | Alabama's Cahaba River is known as "America's Amazon" |
+| Chinemelum Iloegbunam| I've been skydiving multiple times and in the proccess to get my license|
 | Kurt Mauritz         | The Earth is always flat on a map. |
