@@ -125,4 +125,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Chinemelum Iloegbunam | I've been skydiving multiple times and in the proccess to get my license                                                                        |
 | Kurt Mauritz          | The Earth is always flat on a map.                                                                                                              |
 | Dylan Sarikas         | The Fun Fact about "eating 8 spiders in your sleep during your lifetime" is actually a myth                                                     |
-| Alonzo Rice           | I went to a real estate class over the week-end                                                                                                 |
+| Alonzo Rice           | I went to a real estate class over the week-end         
+| Brian Kim             | I met Eddie Huang from Huang's world at UIC                                                                                        |
