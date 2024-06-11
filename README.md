@@ -64,40 +64,40 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Sara Schoonover      | I have an 8 year old Dachshund mix named Comet                                                  |
 | Thierry Chau         | I used to work at the Palace of Versailles                                                      |
 
-## 2024-2.1
+### 2024-2.1
 
-| Name                      | Fun Fact                                                                                                                                                                                                                                        |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------------- | ---------------------- |
-| Eduardo Villa             | Orcas and humans share an ability for culture-based evolution                                                                                                                                                                                   |
-| Alana Edwards             | My favorite color is pink.                                                                                                                                                                                                                      |
-| Amanda Mendez             | Favorite color is pink                                                                                                                                                                                                                          |
-| Andrew Pham               | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals                                                                                                                                                                    |
-| Annie Huynh               | My sister and I have the same birthday but we are born 3 years a part                                                                                                                                                                           |
-| Crystal Tliourane         | I enjoy spicy foods!                                                                                                                                                                                                                            |
-| David Le                  | I built my own computer.                                                                                                                                                                                                                        |
-| Gustavo Gutierrez.        | The reason Tarzan was clean shaven even though he was raised in the jungle is because in the novel he found his dads shaving kit and used it growing up. The movie doesnt show that part.                                                       |
-| Jason Johnson             | I've had two goldfishes.                                                                                                                                                                                                                        |
-| Jeeho Lee                 | I was stuck in Haiti for a day because I forgot to bring my green card                                                                                                                                                                          |
-| Joanna Rodriguez          | I have 2 cats and 1 dog                                                                                                                                                                                                                         |     | Amanda Mendez | Favorite color is pink |
-| John Paul Fababaer        | I was born in Florence, Italy and was named after Pope John Paul II                                                                                                                                                                             |
-| Jose Montes De Oca Morfin | A fear of long words is called Hippopotomonstrosesquippedaliophobia ..                                                                                                                                                                          |
-| Jose Pantoja Jr           | The average colour of the Universe is beige. The Universe may appear like a vast expanse of darkness but the average colour is actually beige, according to scientists.                                                                         |
-| Kiowa Scott               | I love Shrek                                                                                                                                                                                                                                    |
-| Lateef Idris              | Illinois is a state                                                                                                                                                                                                                             |
-| Mary Webby                | I fear mascots and puppets                                                                                                                                                                                                                      |
-| Maurius Hill              | Chicago is currently ranked 6th with major sports championships.                                                                                                                                                                                |
-| Reid Aumann               | My parents share the same birthday                                                                                                                                                                                                              |
-| Rohan Mendiratta          | I was born on the day of the Superbowl                                                                                                                                                                                                          |
-| Salvador Castaneda        | I have visited 16 cities (outside the US)                                                                                                                                                                                                       |
-| Sera Oraha                | I can read and write Assyrian                                                                                                                                                                                                                   |
-| Shafaq Juda               | I can bake Cake                                                                                                                                                                                                                                 |
-| Vincent Pham              | I like taking walks in Chicago's Museum Campus                                                                                                                                                                                                  |
-| Winnie Wu                 | I am terrible at sports                                                                                                                                                                                                                         |
-| Eduardo Villa             | Orcas and humans share an ability for culture-based evolution                                                                                                                                                                                   |
-| Benjamin Guzman           | I have met Gherbo before                                                                                                                                                                                                                        |
-| Alana Edwards             | My favorite color is pink.                                                                                                                                                                                                                      |
-| Crystal Tliourane         | I enjoy spicy foods!                                                                                                                                                                                                                            |
-| Lamont Sampson            | Earth is pretty big, but it's tiny compared to the rest of the universe. For perspective : Around 1,000 Earths can fit inside Jupiter. Around 1,000 Jupiters can fit inside the sun and over 1 billion suns can fit inside the star Betelgeuse. |
+| Name                 | Fun Fact |
+| -------------------- | --- |
+|Eduardo Villa         | Orcas and humans share an ability for culture-based evolution |
+| Alana Edwards        | My favorite color is pink. |
+| Amanda Mendez        | Favorite color is pink |
+| Andrew Pham          | Running in 4.0 speed and 9.0 incline for 30 minutes only burn about 300 cals |
+| Annie Huynh          | My sister and I have the same birthday but we are born 3 years a part |
+| Crystal Tliourane    | I enjoy spicy foods! |
+| David Le             | I built my own computer.|
+| Gustavo Gutierrez.   | The reason Tarzan was clean shaven even though he was raised in the jungle is because in the novel he found his dads shaving kit and used it growing up. The movie doesnt show that part. |
+| Jason Johnson        | I've had two goldfishes. |
+| Jeeho Lee            | I was stuck in Haiti for a day because I forgot to bring my green card |
+| Joanna Rodriguez     | I have 2 cats and 1 dog || Amanda Mendez  | Favorite color is pink |
+| John Paul Fababaer   | I was born in Florence, Italy and was named after Pope John Paul II |
+| Jose Montes De Oca Morfin | A fear of long words is called Hippopotomonstrosesquippedaliophobia ._.|
+| Jose Pantoja Jr  | The average colour of the Universe is beige. The Universe may appear like a vast expanse of darkness but the average colour is actually beige, according to scientists.  |
+| Kiowa Scott          | I love Shrek |
+| Lateef Idris         | Illinois is a state | 
+| Mary Webby           | I fear mascots and puppets |
+| Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
+| Reid Aumann | My parents share the same birthday |
+| Rohan Mendiratta     | I was born on the day of the Superbowl | 
+| Salvador Castaneda | I have visited 16 cities (outside the US) |
+| Sera Oraha           | I can read and write Assyrian |
+| Shafaq Juda          | I can bake Cake|
+| Vincent Pham         | I like taking walks in Chicago's Museum Campus |
+| Winnie Wu            | I am terrible at sports |
+| Eduardo Villa        | Orcas and humans share an ability for culture-based evolution |
+| Benjamin Guzman      | I have met Gherbo before|
+| Alana Edwards        | My favorite color is pink. |
+| Crystal Tliourane    | I enjoy spicy foods! |
+| Lamont Sampson       | Earth is pretty big, but it's tiny compared to the rest of the universe.  For perspective : Around 1,000 Earths can fit inside Jupiter.  Around 1,000 Jupiters can fit inside the sun and over 1 billion suns can fit inside the star Betelgeuse. |
 
 ## 2024-5.1
 
@@ -125,5 +125,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Chinemelum Iloegbunam | I've been skydiving multiple times and in the proccess to get my license                                                                        |
 | Kurt Mauritz          | The Earth is always flat on a map.                                                                                                              |
 | Dylan Sarikas         | The Fun Fact about "eating 8 spiders in your sleep during your lifetime" is actually a myth                                                     |
-| Alonzo Rice           | I went to a real estate class over the week-end         
-| Brian Kim             | I met Eddie Huang from Huang's world at UIC                                                                                        |
+| Alonzo Rice           | I went to a real estate class over the week-end                                                                                                 |
+| Brian Kim             | I met Eddie Huang from Huang's world at UIC                                                                                                     |
