@@ -101,5 +101,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-5.1
 
 | Name                 | Fun Fact |
-| Yusra Ahmed          | The moon is slowly moving further away from Earth each year. |
+| Yusra Ahmed          | The moon is slowly moving further away from Earth each year. | 
 | Jan Niewielski       | I am the first in my family to graduate from university |
