@@ -131,6 +131,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-9.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Jessica JnoBaptiste  | I have a cat named Lou(short for Luney) |
 | Ashanti Hatchett     | I used to have 2 pet rats. |
 | Anna Villarreal      | Selentite will glow if you put LEDs under it. |
 | Merrill Huang        | My parents almost named me Bacon, but I was saved by the doctor. In fairness to my parents, it was in reference to Francis Bacon. | 
