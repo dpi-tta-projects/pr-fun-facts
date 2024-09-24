@@ -136,3 +136,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Merrill Huang        | My parents almost named me Bacon, but I was saved by the doctor. In fairness to my parents, it was in reference to Francis Bacon. | 
 | Brian Kim            | I've been to north korea back when they hyundai tours in 2006|
 | Margarita Potylitsyna| I once spent the night in a volcano caldera |
+| Brian Luu | If your DNA is off by one percentage point you'd be a dolphin. |
