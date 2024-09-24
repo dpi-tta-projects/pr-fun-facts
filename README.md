@@ -132,3 +132,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Brian Kim            | I've been to north korea back when they hyundai tours in 2006|
+| Djvon Simpson.       | I ran in the Shamrock Shuffle. |
