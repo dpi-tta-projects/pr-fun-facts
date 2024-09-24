@@ -132,3 +132,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Tyler Estell         | I grew up with a dog named Skippy|
+| Brian Kim            | I've been to north korea back when they hyundai tours in 2006|
