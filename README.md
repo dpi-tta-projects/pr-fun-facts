@@ -134,3 +134,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
  Merrill Huang        | My parents almost named me Bacon, but I was saved by the doctor. In fairness to my parents, it was in reference to Francis Bacon. | 
 | Brian Kim            | I've been to north korea back when they hyundai tours in 2006|
 | Margarita Potylitsyna| I once spent the night in a volcano caldera |
+| Tyler Estell         | I grew up with a dog named Skippy           |
