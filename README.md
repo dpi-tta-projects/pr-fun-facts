@@ -131,3 +131,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-9.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Tyler Estell         | I grew up with a dog named Skippy|
