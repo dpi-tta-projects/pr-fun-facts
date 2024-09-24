@@ -130,4 +130,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2024-9.1
 | Name                 | Fun Fact |
-| -------------------- | --- |
+| -------------------- | ---  |
+| Vivian Davila | I like to nap  |
