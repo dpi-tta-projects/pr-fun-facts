@@ -131,8 +131,10 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-9.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Ashanti Hatchett     | I used to have 2 pet rats. |
 | Anna Villarreal      | Selentite will glow if you put LEDs under it. |
 | Merrill Huang        | My parents almost named me Bacon, but I was saved by the doctor. In fairness to my parents, it was in reference to Francis Bacon. | 
 | Brian Kim            | I've been to north korea back when they hyundai tours in 2006|
 | Margarita Potylitsyna| I once spent the night in a volcano caldera |
 | Vivian Davila | I like naps |
+| Brian Luu | If your DNA is off by one percentage point you'd be a dolphin. |
