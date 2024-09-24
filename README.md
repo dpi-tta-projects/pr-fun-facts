@@ -130,4 +130,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2024-9.1
 | Name                 | Fun Fact |
-| -------------------- | --- |
+| Brian Luu            | If your DNA is off by 1 percentage point, you would be a dolphin. |
