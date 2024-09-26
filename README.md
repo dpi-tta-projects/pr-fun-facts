@@ -132,6 +132,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-9.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Daniela Garcia       | I've been a mexican folkloric dancer since I was six. |
 | Jessica JnoBaptiste  | I have a cat named Lou(short for Luney) |
 | Ashanti Hatchett     | I used to have 2 pet rats. |
 | Anna Villarreal      | Selentite will glow if you put LEDs under it. |
