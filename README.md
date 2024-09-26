@@ -18,6 +18,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | John Leavell         | I make the best lemon pancakes |
 | Mena Castillo        | I like turtles |
 | Robert Sfarzo | I like Nebraska. |
+| Aldo Portillo | I like water |
 
 ## 2023-1.1 Hash Rockets
 
