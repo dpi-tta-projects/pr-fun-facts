@@ -18,6 +18,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | John Leavell         | I make the best lemon pancakes |
 | Mena Castillo        | I like turtles |
 | Robert Sfarzo | I like Nebraska. |
+| Aldo Portillo | I like water |
 
 ## 2023-1.1 Hash Rockets
 
@@ -102,6 +103,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-5.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Yusra Ahmed          | The moon is slowly moving further away from Earth each year. | 
+| Jan Niewielski       | I am the first in my family to graduate from university |
 | Natalie Demyanenko   | Check out this address a couple of stations north of here for a stunningly beautiful Art Nouveau space! --78 E Washington St, Chicago, IL 60602|
 | Reza Husain          | I played basketball with an ex-NBA player.
 | Rebecca Herrera      | If the Earth doubled in size, trees would immediately fall down. |
@@ -125,3 +128,25 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Kurt Mauritz         | The Earth is always flat on a map. |
 | Dylan Sarikas        | The Fun Fact about "eating 8 spiders in your sleep during your lifetime" is actually a myth|
 | Alonzo Rice           | I went to a real estate class over the week-end | 
+=======
+
+
+## 2024-9.1
+| Name                 | Fun Fact |
+| -------------------- | --- |
+ Merrill Huang        | My parents almost named me Bacon, but I was saved by the doctor. In fairness to my parents, it was in reference to Francis Bacon. | 
+| Brian Kim            | I've been to north korea back when they hyundai tours in 2006|
+| Margarita Potylitsyna| I once spent the night in a volcano caldera |
+| Daniela Garcia       | I've been a mexican folkloric dancer since I was six. |
+| Jessica JnoBaptiste  | I have a cat named Lou(short for Luney) |
+| Ashanti Hatchett     | I used to have 2 pet rats. |
+| Anna Villarreal      | Selentite will glow if you put LEDs under it. |
+| Merrill Huang        | My parents almost named me Bacon, but I was saved by the doctor. In fairness to my parents, it was in reference to Francis Bacon. | 
+| Brian Kim            | I've been to north korea back when they hyundai tours in 2006|
+| Vivian Davila | I like naps |
+| Brian Luu | If your DNA is off by one percentage point you'd be a dolphin. |
+| Djvon Simpson.       | I ran in the Shamrock Shuffle. |
+| Tyler Estell         | I grew up with a dog named Skippy |
+|Alonzo Rice           | I meal prep on saturdays | 
+
+
