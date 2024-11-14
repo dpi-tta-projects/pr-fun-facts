@@ -147,4 +147,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Tyler Estell         | I grew up with a dog named Skippy |
 
 ## 2024-10.1
+| Name                 | Fun Fact |
+| -------------------- | --- |
 | Teresa Pham          | I have a Dachshund dog named Weiner |
