@@ -147,7 +147,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Tyler Estell         | I grew up with a dog named Skippy |
 | Jim Vongsouvanh         | One of these are not the same. |
 
-## 2024-10-.1
+## 2024-10.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
-| Jim Vongsouvanh | Cats sleep 70% of their lives|      
+| Teresa Pham          | I have a Dachshund dog named Weiner |
+| Jim Vongsouvanh | Cats sleep 70% of their lives|
