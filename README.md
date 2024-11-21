@@ -152,3 +152,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | -------------------- | --- |
 | Teresa Pham          | I have a Dachshund dog named Weiner |
 | Jim Vongsouvanh | Cats sleep 70% of their lives|
+| Jalen Young          | League of Legends is my favorite PC game |
