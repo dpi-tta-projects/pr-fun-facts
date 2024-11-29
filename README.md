@@ -147,6 +147,11 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Brian Luu | If your DNA is off by one percentage point you'd be a dolphin. |
 | Djvon Simpson.       | I ran in the Shamrock Shuffle. |
 | Tyler Estell         | I grew up with a dog named Skippy |
+
+## 2024-10.1
+| Name                 | Fun Fact |
+| -------------------- | --- |
+| Teresa Pham          | I have a Dachshund dog named Weiner |
+| Jim Vongsouvanh | Cats sleep 70% of their lives|
+| Jalen Young          | League of Legends is my favorite PC game |
 |Alonzo Rice           | I meal prep on saturdays | 
-
-
