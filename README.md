@@ -127,7 +127,9 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Chinemelum Iloegbunam| I've been skydiving multiple times and in the proccess to get my license|
 | Kurt Mauritz         | The Earth is always flat on a map. |
 | Dylan Sarikas        | The Fun Fact about "eating 8 spiders in your sleep during your lifetime" is actually a myth|
-|Alonzo Rice           | I went to a real estate class over the week-end | 
+| Alonzo Rice           | I went to a real estate class over the week-end | 
+=======
+
 
 ## 2024-9.1
 | Name                 | Fun Fact |
@@ -145,7 +147,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Brian Luu | If your DNA is off by one percentage point you'd be a dolphin. |
 | Djvon Simpson.       | I ran in the Shamrock Shuffle. |
 | Tyler Estell         | I grew up with a dog named Skippy |
-| Jim Vongsouvanh         | One of these are not the same. |
 
 ## 2024-10.1
 | Name                 | Fun Fact |
@@ -153,4 +154,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Teresa Pham          | I have a Dachshund dog named Weiner |
 | Jim Vongsouvanh | Cats sleep 70% of their lives|
 | Jalen Young          | League of Legends is my favorite PC game |
+|Alonzo Rice           | I meal prep on saturdays | 
 | Max Montesino | I once took a 31-hour train ride, from Saigon to Hanoi in February 2006. |
