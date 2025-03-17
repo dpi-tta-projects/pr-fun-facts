@@ -163,3 +163,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | -------------------- | --- |
 | Aldo Portillo | the patent for the fire hydrant was lost in a fire |
 | Brian Kim | I have universal doner type blood (O-) |
+| Federico Hernandez Nater | I appear briefly in a Bad Bunny music video |
