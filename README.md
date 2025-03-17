@@ -161,5 +161,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2025-3.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
-| Miguel Ramos         | I like sandwiches |
 | Aldo Portillo | the patent for the fire hydrant was lost in a fire |
+| Miguel Ramos         | I like sandwiches |
