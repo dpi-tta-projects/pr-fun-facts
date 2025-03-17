@@ -162,3 +162,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Federico Hernandez Nater | I appear briefly in a Bad Bunny music video |
+| Aldo Portillo | the patent for the fire hydrant was lost in a fire |
