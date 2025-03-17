@@ -161,3 +161,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2025-3.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Federico Hernandez Nater | I appear briefly in a Bad Bunny music video |
