@@ -157,3 +157,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 |Alonzo Rice           | I meal prep on saturdays | 
 |KieuThanhDiem Grace Do| Tree squirrels do not hibernate. They just sleep a lot in the winter.
 | Max Montesino | I once took a 31-hour train ride, from Saigon to Hanoi in February 2006. |
+
+
+
+
+| Aldo Portillo | the patent for the fire hydrant was lost in a fire |
