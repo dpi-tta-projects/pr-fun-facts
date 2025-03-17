@@ -162,3 +162,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Margo Potylitsyna | I went downtown yesterday to see the green river |
+| Aldo Portillo | the patent for the fire hydrant was lost in a fire |
