@@ -164,6 +164,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Margo Potylitsyna | I went downtown yesterday to see the green river |
 | Aldo Portillo | the patent for the fire hydrant was lost in a fire |
 | Federico Hernandez Nater | I appear briefly in a Bad Bunny music video |
-| Candide Mboungou-Kimpolo |I attended the Olympics Game last summer in Paris |
-
-
+| Candide Mboungou-Kimpolo | I attended the Olympics Game last summer in Paris |
