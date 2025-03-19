@@ -128,8 +128,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Kurt Mauritz         | The Earth is always flat on a map. |
 | Dylan Sarikas        | The Fun Fact about "eating 8 spiders in your sleep during your lifetime" is actually a myth|
 | Alonzo Rice           | I went to a real estate class over the week-end | 
-=======
-
 
 ## 2024-9.1
 | Name                 | Fun Fact |
@@ -165,4 +163,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Aldo Portillo | the patent for the fire hydrant was lost in a fire |
 | Federico Hernandez Nater | I appear briefly in a Bad Bunny music video |
 | Candide Mboungou-Kimpolo | I attended the Olympics Game last summer in Paris |
-
+| Gladys Toledo-Rodriguez | I went to the Paris Paloma - The Cacophony Tour - Concert |
