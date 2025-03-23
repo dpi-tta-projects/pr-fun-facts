@@ -46,7 +46,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Andre Garner         | I play Fortnite |
 | Andrew Cook          | I like turtles |
 | Brenda Reyes         | I broke 4 of my toes all at once |
-| Brian Waddell        | The Triangle is the strongest shape period | 
+| Brian Waddell        | The Triangle is the strongest shape period |
 | Calvin Armstrong     | I have a custom six-string electric cello that I designed and play heavy metal on |
 | Carlos Castaneda     | I've traveled to 4 different continents |
 | Carman Chiu          | My dream is to become a great dancer :D |
@@ -84,11 +84,11 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Jose Montes De Oca Morfin | A fear of long words is called Hippopotomonstrosesquippedaliophobia ._.|
 | Jose Pantoja Jr  | The average colour of the Universe is beige. The Universe may appear like a vast expanse of darkness but the average colour is actually beige, according to scientists.  |
 | Kiowa Scott          | I love Shrek |
-| Lateef Idris         | Illinois is a state | 
+| Lateef Idris         | Illinois is a state |
 | Mary Webby           | I fear mascots and puppets |
 | Maurius Hill         | Chicago is currently ranked 6th with major sports championships.|
 | Reid Aumann | My parents share the same birthday |
-| Rohan Mendiratta     | I was born on the day of the Superbowl | 
+| Rohan Mendiratta     | I was born on the day of the Superbowl |
 | Salvador Castaneda | I have visited 16 cities (outside the US) |
 | Sera Oraha           | I can read and write Assyrian |
 | Shafaq Juda          | I can bake Cake|
@@ -103,7 +103,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2024-5.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
-| Yusra Ahmed          | The moon is slowly moving further away from Earth each year. | 
+| Yusra Ahmed          | The moon is slowly moving further away from Earth each year. |
 | Jan Niewielski       | I am the first in my family to graduate from university |
 | Natalie Demyanenko   | Check out this address a couple of stations north of here for a stunningly beautiful Art Nouveau space! --78 E Washington St, Chicago, IL 60602|
 | Reza Husain          | I played basketball with an ex-NBA player.
@@ -127,21 +127,19 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Chinemelum Iloegbunam| I've been skydiving multiple times and in the proccess to get my license|
 | Kurt Mauritz         | The Earth is always flat on a map. |
 | Dylan Sarikas        | The Fun Fact about "eating 8 spiders in your sleep during your lifetime" is actually a myth|
-| Alonzo Rice           | I went to a real estate class over the week-end | 
-=======
-
+| Alonzo Rice           | I went to a real estate class over the week-end |
 
 ## 2024-9.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
- Merrill Huang        | My parents almost named me Bacon, but I was saved by the doctor. In fairness to my parents, it was in reference to Francis Bacon. | 
+ Merrill Huang        | My parents almost named me Bacon, but I was saved by the doctor. In fairness to my parents, it was in reference to Francis Bacon. |
 | Brian Kim            | I've been to north korea back when they hyundai tours in 2006|
 | Margarita Potylitsyna| I once spent the night in a volcano caldera |
 | Daniela Garcia       | I've been a mexican folkloric dancer since I was six. |
 | Jessica JnoBaptiste  | I have a cat named Lou(short for Luney) |
 | Ashanti Hatchett     | I used to have 2 pet rats. |
 | Anna Villarreal      | Selentite will glow if you put LEDs under it. |
-| Merrill Huang        | My parents almost named me Bacon, but I was saved by the doctor. In fairness to my parents, it was in reference to Francis Bacon. | 
+| Merrill Huang        | My parents almost named me Bacon, but I was saved by the doctor. In fairness to my parents, it was in reference to Francis Bacon. |
 | Brian Kim            | I've been to north korea back when they hyundai tours in 2006|
 | Vivian Davila | I like naps |
 | Brian Luu | If your DNA is off by one percentage point you'd be a dolphin. |
@@ -154,7 +152,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Teresa Pham          | I have a Dachshund dog named Weiner |
 | Jim Vongsouvanh | Cats sleep 70% of their lives|
 | Jalen Young          | League of Legends is my favorite PC game |
-|Alonzo Rice           | I meal prep on saturdays | 
+|Alonzo Rice           | I meal prep on saturdays |
 |KieuThanhDiem Grace Do| Tree squirrels do not hibernate. They just sleep a lot in the winter.
 | Max Montesino | I once took a 31-hour train ride, from Saigon to Hanoi in February 2006. |
 
@@ -162,4 +160,11 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | --- |
 | Aldo Portillo | the patent for the fire hydrant was lost in a fire |
-| Miguel Ramos         | I like sandwiches |
+| Miguel Ramos | I like sandwiches |
+| Margo Potylitsyna | I went downtown yesterday to see the green river |
+| Aldo Portillo | the patent for the fire hydrant was lost in a fire |
+| Federico Hernandez Nater | I appear briefly in a Bad Bunny music video |
+| Gladys Toledo-Rodriguez | I went to the Paris Paloma - The Cacophony Tour - Concert |
+| Melissa Martinez | Killer whales have been spotted wearing salmon as hats. |
+| Joel Hunt | I used live in Northern Ireland |
+| Sabreena Salomon | I pour the milk before the cereal |
