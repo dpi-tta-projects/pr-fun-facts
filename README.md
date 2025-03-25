@@ -166,3 +166,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Melissa Martinez | Killer whales have been spotted wearing salmon as hats. |
 | Joel Hunt | I used live in Northern Ireland |
 | Sabreena Salomon | I pour the milk before the cereal |
+| Victor Manzanilla | I pretended to be a teacher at teacher's conference and took I japanese in college|
