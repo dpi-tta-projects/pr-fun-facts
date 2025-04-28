@@ -170,3 +170,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Sabreena Salomon | I pour the milk before the cereal |
 | Mohamed Elhelw | i met with roberto cavalli before |
 | Devlin Harvey | Fungi are more closely related to animals than they are to plants |
+| Torell Pernell | I like to play video games in my spare time |
