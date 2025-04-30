@@ -122,6 +122,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Young Song           | My biking speed is slower than running |
 | Jennifer Rahman      | I love frogs! |
 | Aleksei Borovikov    | I would love to visit Japan. |
+| Todd McFarlin        | My highest rank in LoL was Plat 2|
 | Herman Contreras     | Combine blue and red to make purple |
 | Brandon Varner       | Alabama's Cahaba River is known as "America's Amazon" |
 | Chinemelum Iloegbunam| I've been skydiving multiple times and in the proccess to get my license|
