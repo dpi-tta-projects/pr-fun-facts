@@ -172,7 +172,11 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Devlin Harvey | Fungi are more closely related to animals than they are to plants |
 | Torell Pernell | I like to play video games in my spare time |
 
-## 2025-8.1
+
+## 2025-7.1
 | Name                 | Fun Fact |
-| -------------------- | --- |
-| Courtney Kimborugh   | Millenium park opened in 2004 |
+| -------------------- | -------- |
+| Karen Barbé | 25 years being a vegetarian |
+| Muhammed Ahmed | I once competed in a life or death kumite in Hong Kong, and had Thai curried catfish afterwards with basil |
+| Courtney Kimborugh | Millenium park opened in 2004 |
+
