@@ -176,3 +176,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name                 | Fun Fact |
 | -------------------- | -------- |
 | Monique Theogene | I like fun socks|
+| Berhane Berhane | I love to play soccer|
