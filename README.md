@@ -177,3 +177,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | -------------------- | -------- |
 | Karen Barbé | 25 years being a vegetarian |
 | Muhammed Ahmed | I once competed in a life or death kumite in Hong Kong, and had Thai curried catfish afterwards with basil |
+| Courtney Kimbrough | The bean finished construction in 2006 |
