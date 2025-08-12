@@ -172,3 +172,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Devlin Harvey | Fungi are more closely related to animals than they are to plants |
 | Torell Pernell | I like to play video games in my spare time |
 | Gabriel Hewitt | I played trombone for 6 years |
+
+## 2025-7.1
+| Name                 | Fun Fact |
+| -------------------- | -------- |
