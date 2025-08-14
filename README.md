@@ -180,3 +180,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Karen Barbé | 25 years being a vegetarian |
 | Muhammed Ahmed | I once competed in a life or death kumite in Hong Kong, and had Thai curried catfish afterwards with basil |
 | Kseniia Kormalova | I have two different birth certificates, I had three last names, and I had a different first name, when I was born |
+ Bella Rose Wilson | I'm growing VFT's and found out they hibernate/need a dormacy period of 6-8 weeks. |
