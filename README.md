@@ -175,6 +175,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2025-7.1
 | Name                 | Fun Fact |
 | -------------------- | -------- |
+| Monique Theogene | I like fun socks|
+| Berhane Berhane | I love to play soccer|
 | Margo Potylitsyna | I got addicted to Threads |
 | Maia Rowe | I've played the organ piano and the barratone tuba |
 | Karen Barbé | 25 years being a vegetarian |
