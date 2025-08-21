@@ -175,7 +175,13 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2025-7.1
 | Name                 | Fun Fact |
 | -------------------- | -------- |
+| Monique Theogene | I like fun socks|
+| Berhane Berhane | I love to play soccer|
+| Margo Potylitsyna | I got addicted to Threads |
 | Maia Rowe | I've played the organ piano and the barratone tuba |
 | Karen Barbé | 25 years being a vegetarian |
 | Muhammed Ahmed | I once competed in a life or death kumite in Hong Kong, and had Thai curried catfish afterwards with basil |
-|Iman Mombo | Iman's POV: Teen Titans Go > Classic Teen Titans. Don't @ me.|
+| Kseniia Kormalova | I have two different birth certificates, I had three last names, and I had a different first name, when I was born |
+| Bella Rose Wilson | I'm growing VFT's and found out they hibernate/need a dormacy period of 6-8 weeks. |
+| Courtney Kimbrough | The bean finished construction in 2006 |
+| Iman Mombo | Iman's POV: Teen Titans Go > Classic Teen Titans. Don't @ me.|
