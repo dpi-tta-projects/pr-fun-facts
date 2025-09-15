@@ -186,3 +186,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Courtney Kimbrough | The bean finished construction in 2006 |
 | Darius Woods | I play four different instruments... allegedly. |
 | L Pollard | I've ridden my bike on Lake Shore Drive. |
+| Alex Slawniak | Wants to be a farmer, with greenhouses |
