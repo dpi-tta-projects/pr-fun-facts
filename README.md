@@ -185,4 +185,3 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Bella Rose Wilson | I'm growing VFT's and found out they hibernate/need a dormacy period of 6-8 weeks. |
 | Courtney Kimbrough | The bean finished construction in 2006 |
 | Darius Woods | I play four different instruments... allegedly. |
-| Heather Forester | I have put my foot in 4 of the 5 great lakes. |
