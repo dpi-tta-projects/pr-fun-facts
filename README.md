@@ -185,3 +185,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Bella Rose Wilson | I'm growing VFT's and found out they hibernate/need a dormacy period of 6-8 weeks. |
 | Courtney Kimbrough | The bean finished construction in 2006 |
 | Benny Joram | I also like to play soccer |
+| Darius Woods | I play four different instruments... allegedly. |
+| L Pollard | I've ridden my bike on Lake Shore Drive. |
+| Heather Forester | I studied abroad in college in Dublin, Ireland.  |
+| Alex Slawniak | Wants to be a farmer, with greenhouses |
