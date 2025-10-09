@@ -175,7 +175,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2025-7.1
 | Name                 | Fun Fact |
 | -------------------- | -------- |
-| Monique Theogene | I like fun socks|
 | Berhane Berhane | I love to play soccer|
 | Margo Potylitsyna | I got addicted to Threads |
 | Maia Rowe | I've played the organ piano and the barratone tuba |
@@ -189,3 +188,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | L Pollard | I've ridden my bike on Lake Shore Drive. |
 | Heather Forester | I studied abroad in college in Dublin, Ireland.  |
 | Alex Slawniak | Wants to be a farmer, with greenhouses |
+| Monique Theogene | I don't like fun socks |
